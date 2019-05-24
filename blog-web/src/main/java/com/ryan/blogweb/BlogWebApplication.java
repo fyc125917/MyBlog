@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@Controller
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
 public class BlogWebApplication {
 
@@ -15,9 +16,10 @@ public class BlogWebApplication {
 		SpringApplication.run(BlogWebApplication.class, args);
 	}
 
-	@RequestMapping("/hello")
+	@RequestMapping("/")
 	public String hello() {
-		return "hello";
+		System.out.println("asdaaaaaaaaaaaaaaa");
+		return "default/hello";
 	}
 
 }
