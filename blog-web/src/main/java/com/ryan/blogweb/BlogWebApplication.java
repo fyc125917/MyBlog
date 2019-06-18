@@ -16,10 +16,4 @@ public class BlogWebApplication {
 		SpringApplication.run(BlogWebApplication.class, args);
 	}
 
-	@RequestMapping("/")
-	public String hello() {
-		System.out.println("asdaaaaaaaaaaaaaaa");
-		return "default/hello";
-	}
-
 }

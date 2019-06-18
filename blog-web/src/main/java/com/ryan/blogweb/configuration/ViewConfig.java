@@ -11,7 +11,11 @@ import org.thymeleaf.spring5.view.ThymeleafViewResolver;
 /**
  * @Classname ViewConfig
  * @Description 配置thyemleaf的视图解析器
- *              1.配置
+ *              1.配置SpringSourceTemplateResolver
+ *                  1.1配置html文件前缀，后缀是否缓存，文件模型等
+ *              2.添加SpringSourceTemplateResolver到SpringTemplateEngine中
+ *              3.将SpringTemplateEnigne对象添加至Thyemleaf对象中，并返回ViewResolver对象
+ *
  * @Date 2019/5/24 19:11
  * @Created by fyc
  */
@@ -47,7 +51,7 @@ public class ViewConfig {
     @Bean
     public SpringResourceTemplateResolver templateResolver(){
         SpringResourceTemplateResolver springResourceTemplateResolver = new SpringResourceTemplateResolver();
-        springResourceTemplateResolver.setPrefix("classpath:/templates/themes/");//设置地址前缀
+        springResourceTemplateResolver.setPrefix("classpath:/templates/");//设置地址前缀
         springResourceTemplateResolver.setSuffix(".html");//设置后缀
         springResourceTemplateResolver.setCacheable(false);//设置不缓存
         springResourceTemplateResolver.setTemplateMode("HTML5");
