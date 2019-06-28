@@ -1,0 +1,322 @@
+2019-05-24 18:16:17.917 [http-nio-80-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:18.474 [http-nio-80-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:18.663 [http-nio-80-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:24.120 [http-nio-80-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:24.163 [http-nio-80-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:24.188 [http-nio-80-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:34.165 [http-nio-80-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 18:16:34.232 [http-nio-80-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\ContentVoMapper.xml]
+### The error may involve com.my.blog.website.dao.ContentVoMapper.selectByExampleWithBLOBs-Inline
+### The error occurred while setting parameters
+### SQL: SELECT count(0) FROM t_contents WHERE (type = ? AND status = ?)
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:34.271 [http-nio-80-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:16:34.312 [http-nio-80-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:17:53.117 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 18:17:53.251 [http-nio-8080-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\ContentVoMapper.xml]
+### The error may involve com.my.blog.website.dao.ContentVoMapper.selectByExampleWithBLOBs-Inline
+### The error occurred while setting parameters
+### SQL: SELECT count(0) FROM t_contents WHERE (type = ? AND status = ?)
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:17:53.678 [http-nio-8080-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:17:53.720 [http-nio-8080-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:00.351 [http-nio-8080-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:00.389 [http-nio-8080-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:00.415 [http-nio-8080-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:04.517 [http-nio-8080-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:04.555 [http-nio-8080-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:04.583 [http-nio-8080-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:08.525 [http-nio-8080-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:08.564 [http-nio-8080-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:18:08.592 [http-nio-8080-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:25:51.950 [http-nio-8080-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:25:52.449 [http-nio-8080-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:25:52.522 [http-nio-8080-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:09.153 [http-nio-8080-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:09.189 [http-nio-8080-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:09.224 [http-nio-8080-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:13.503 [http-nio-8080-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:13.548 [http-nio-8080-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:26:13.580 [http-nio-8080-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:27:52.087 [http-nio-8080-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:27:52.718 [http-nio-8080-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:27:52.756 [http-nio-8080-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:36:33.479 [http-nio-8080-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:36:33.948 [http-nio-8080-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 18:36:34.015 [http-nio-8080-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\OptionVoMapper.xml]
+### The error may involve com.my.blog.website.dao.OptionVoMapper.selectByPrimaryKey-Inline
+### The error occurred while setting parameters
+### SQL: select            name, value, description         from t_options     where name = ?
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 19:01:44.291 [http-nio-80-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 19:01:44.467 [http-nio-80-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\ContentVoMapper.xml]
+### The error may involve com.my.blog.website.dao.ContentVoMapper.selectByExampleWithBLOBs-Inline
+### The error occurred while setting parameters
+### SQL: SELECT count(0) FROM t_contents WHERE (type = ? AND status = ?)
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 20:41:21.483 [http-nio-8080-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\ContentVoMapper.xml]
+### The error may involve com.my.blog.website.dao.ContentVoMapper.selectByExampleWithBLOBs-Inline
+### The error occurred while setting parameters
+### SQL: select                 cid, title, slug, created, modified, author_id, type, status, tags, categories, hits,      comments_num, allow_comment, allow_ping, allow_feed         ,           content         from t_contents                    WHERE (  slug = ? )
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 20:42:18.456 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 20:42:18.673 [http-nio-8080-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=
+### Error querying database.  Cause: java.sql.SQLException: No database selected
+### The error may exist in file [C:\Users\fyc\Desktop\玩儿\博客\SpringBoot-Blog-master\target\classes\mapper\ContentVoMapper.xml]
+### The error may involve com.my.blog.website.dao.ContentVoMapper.selectByExampleWithBLOBs-Inline
+### The error occurred while setting parameters
+### SQL: SELECT count(0) FROM t_contents WHERE (type = ? AND status = ?)
+### Cause: java.sql.SQLException: No database selected
+; uncategorized SQLException; SQL state [3D000]; error code [1046]; No database selected; nested exception is java.sql.SQLException: No database selected
+2019-05-24 23:12:16.118 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 23:12:19.367 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-05-24 23:12:45.118 [http-nio-8080-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-05-24 23:12:45.170 [http-nio-8080-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-05-24 23:13:04.865 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-05-24 23:13:04.878 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
