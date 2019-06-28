@@ -14,12 +14,16 @@ import java.util.Map;
  * @Created by fyc
  */
 @Controller
+@RequestMapping("/blogger")
 public class UserController extends BaseController {
 
-    @GetMapping("/blogger/login")
+    /**
+     *@Desc: 更改头像
+     */
+    @GetMapping("/changeHeadPicture")
     public String login(@RequestParam Map<String,Object> params){
-
-        return "/index";
+        System.out.println("asdaadasdasdada");
+        return "index";
     }
 
 

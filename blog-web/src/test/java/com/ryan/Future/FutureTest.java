@@ -1,10 +1,8 @@
 package com.ryan.Future;
 
-import org.apache.tomcat.jni.Poll;
-import org.quartz.spi.ThreadExecutor;
-import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
-
-import java.util.concurrent.*;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.FutureTask;
 
 /**
  * @Classname FutureTest

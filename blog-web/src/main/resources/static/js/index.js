@@ -1,10 +1,13 @@
-+function($, window, undefined){
+    $(document).ready(function(){
 
-    'use strict';
-    $(function () {
-        init();
+        $(".head-picture").click( function () {
+            var url = "/blogger/changeHeadPicture";
+            alert("asdaaaaa");
+            $.get(url);
+            alert("231231231241241");
+        });
     });
 
 
 
-}(jQuery,window)
+
