@@ -1,5 +1,10 @@
 package com.ryan.blogweb;
 
+import com.ryan.blogweb.controller.UserController;
+import org.springframework.beans.BeanUtils;
+
+import java.lang.reflect.Constructor;
+
 /**
  * @Classname Main
  * @Description TODO
@@ -7,8 +12,31 @@ package com.ryan.blogweb;
  * @Created by fyc
  */
 public class Main {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, ClassNotFoundException, NoSuchMethodException {
 
+//        Class<UserController> userController = (Class<UserController>) Class.forName("com.ryan.blogweb.controller.UserController");
+//        Constructor<UserController> declaredConstructor = userController.getDeclaredConstructor(UserController.class);
+//        UserController userController1 = BeanUtils.instantiateClass(declaredConstructor, args);
+//        System.out.println(userController1);
+
+//        int i1 = Integer.valueOf(5).compareTo(null);
+//        System.out.println(i1);
+
+        int i2 = Integer.valueOf(0).compareTo(-8);
+        System.out.println(i2);
+
+        System.out.println(Integer.valueOf(0).compareTo(0));
+
+        System.out.println(Integer.valueOf(0).compareTo(5));
+
+//        for (int i = 0; i < 10; i++) {
+//            if (i==3) {
+//                return;
+//            }
+//            System.out.println(i);
+//
+//        }
+//        System.out.println("aaaaaaaaaaaaaaaa");
 //        AAA A = new AAA(1,"ZC");
 //        Thread.sleep(5000);
 //        AAA AA = new AAA(1,"BC");
